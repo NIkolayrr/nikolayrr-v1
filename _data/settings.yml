@@ -4,7 +4,8 @@
 title: Nikolayrr
 email: nikolay.r.rangelov@gmail.com
 description: Designer // Programmer // Athlete
-
+baseurl: '/nikolayrr'
+url: 'http://nikolayrr.github.io'
 #About section
 
 about-text: <strong>Lorem ipsum dolor sit amet</strong>, consectetur adipiscing elit,
